@@ -121,7 +121,7 @@
 
 * 首次运行
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-box.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/niqifan007/sing-box/refs/heads/main/sing-box.sh)
 ```
 
 * 再次运行
